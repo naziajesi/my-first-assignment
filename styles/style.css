@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(224, 219, 219);
+}
+#hero{
+    /* Frame 2087325504 */
+
+
+  width: 1365px;
+   margin: 0 auto;
+   
+}
+#hero .container{
+    height: 350px;
+    width: 800px;
+    margin-left: 70px;
+    margin-right: 50px;
+    background-color: aqua;
+    display: flex;
+    margin-top: 100px;
+    gap: 20px;
+    border-radius: 15px;
+    
+
+}
+#hero .container .subtitle{
+
+    color: rgba(128, 128, 128, 0.833);
+    font-family: Fira Sans;
+    font-size: 14px;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: left;
+  
+}
+#hero .container .title{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 30px;
+    font-weight: 150px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+#hero .container .connect{
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 14px;
+   font-weight: 600;
+   line-height: 22px;
+   letter-spacing: 0%;
+   text-align: left;
+   margin-top: 10px;
+   background-color: green;
+   border: none;
+   border-radius: 15px;
+   padding: 10px;
+}
+#hero .container .contant{
+     padding: 40px 50px 40px 50px; 
+}
